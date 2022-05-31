@@ -6,6 +6,8 @@ Prática de Angular juntamente com Spring.
 
 ## Commits seguindo os passos do Curso
 
-- **Commit 2** Vídeos 1 e 2:
-	- Introdução;
-	- Overview do Projeto e Instalando o Angular Material;
+**Commit 2**
+- Vídeo 1: Introdução;
+- Vídeo 2: Overview do Projeto e Instalando o Angular Material;
+**Commit 3**
+- Vídeo 3: Criando uma Toolbar na Página Principal;
