@@ -18,3 +18,7 @@ Prática de Angular juntamente com Spring.
 
 **Commit 5**
 - Vídeo 5: Customizando o Tema do Angular Material;
+
+**Commit 6**
+- Vídeo 6: Criando Material Table para Listar Cursos;
+- Vídeo 7: CSS do Material Table e Criando um Módulo App Material;
