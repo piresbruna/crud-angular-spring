@@ -23,6 +23,10 @@ Prática de Angular juntamente com Spring.
 - Vídeo 6: Criando Material Table para Listar Cursos;
 - Vídeo 7: CSS do Material Table e Criando um Módulo App Material;
 
-**Commit 7**
+**[Commit 7](https://github.com/piresbruna/crud-angular-spring/commit/813ec413564e8339aef21ee53317c47b58b754cf)**
 - Vídeo 8: Criando um Service no Angular;
 - Vídeo 9: Chamada HTTP Get no Angular e RXJS;
+
+**Commit 8**
+- Vídeo 10: Lista de Cursos: Spinner (Carregando);
+- Vídeo 11: Lista de Cursos: Tratamento de Erros e MatDialog;
