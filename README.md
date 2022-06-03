@@ -31,5 +31,9 @@ Prática de Angular juntamente com Spring.
 - Vídeo 10: Lista de Cursos: Spinner (Carregando);
 - Vídeo 11: Lista de Cursos: Tratamento de Erros e MatDialog;
 
-**Commit 9**
+**[Commit 9](https://github.com/piresbruna/crud-angular-spring/commit/c11d3455ac063e37944812e6724af526e5fe922d)**
 - Vídeo 12: Lista de Cursos: Pipe para mostrar ícone;
+
+**Commit 10**
+- Vídeo 13: Ambiente Java + Maven para Spring;
+- Vídeo 14: Hello World com Spring;
