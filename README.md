@@ -27,6 +27,9 @@ Prática de Angular juntamente com Spring.
 - Vídeo 8: Criando um Service no Angular;
 - Vídeo 9: Chamada HTTP Get no Angular e RXJS;
 
-**Commit 8**
+**[Commit 8](https://github.com/piresbruna/crud-angular-spring/commit/76d72953cce85ad4f13020fb009fa640bf796652)**
 - Vídeo 10: Lista de Cursos: Spinner (Carregando);
 - Vídeo 11: Lista de Cursos: Tratamento de Erros e MatDialog;
+
+**Commit 9**
+- Vídeo 12: Lista de Cursos: Pipe para mostrar ícone;
