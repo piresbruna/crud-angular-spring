@@ -34,6 +34,9 @@ Prática de Angular juntamente com Spring.
 **[Commit 9](https://github.com/piresbruna/crud-angular-spring/commit/c11d3455ac063e37944812e6724af526e5fe922d)**
 - Vídeo 12: Lista de Cursos: Pipe para mostrar ícone;
 
-**Commit 10**
+**[Commit 10](https://github.com/piresbruna/crud-angular-spring/commit/41ec37b65a0d592a4c5182c53d91b41324bf00cb)**
 - Vídeo 13: Ambiente Java + Maven para Spring;
 - Vídeo 14: Hello World com Spring;
+
+**Commit 11**
+- Vídeo 15: Listar Cursos (API HTTP GET);
