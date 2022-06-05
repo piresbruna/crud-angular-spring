@@ -47,3 +47,7 @@ Prática de Angular juntamente com Spring.
 **Commit 13**
 - Vídeo 17: Update da Versão Angular (ng update) e Spring;
 	- Atualização do `@angular/cli` e `@angular/core` das versões v13 para a v14.
+
+**Commit 14**
+- Vídeo 17: Update da Versão Angular (ng update) e Spring;
+	- Atualização do `@angular/cdk` e `@angular/material` das versões v13 para a v14.
