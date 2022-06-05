@@ -38,5 +38,8 @@ Prática de Angular juntamente com Spring.
 - Vídeo 13: Ambiente Java + Maven para Spring;
 - Vídeo 14: Hello World com Spring;
 
-**Commit 11**
+**[Commit 11](https://github.com/piresbruna/crud-angular-spring/commit/1149289f6901b03c643e9b0e6f76b5e711956090)**
 - Vídeo 15: Listar Cursos (API HTTP GET);
+
+**Commit 12**
+- Vídeo 16: Banco de Dados H2 e Conectando o Angular na API Spring;
