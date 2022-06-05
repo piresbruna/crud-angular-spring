@@ -41,5 +41,9 @@ Prática de Angular juntamente com Spring.
 **[Commit 11](https://github.com/piresbruna/crud-angular-spring/commit/1149289f6901b03c643e9b0e6f76b5e711956090)**
 - Vídeo 15: Listar Cursos (API HTTP GET);
 
-**Commit 12**
+**[Commit 12](https://github.com/piresbruna/crud-angular-spring/commit/4c39ce9e36aa0ca268b89fad6531f8d6c1a8991f)**
 - Vídeo 16: Banco de Dados H2 e Conectando o Angular na API Spring;
+
+**Commit 13**
+- Vídeo 17: Update da Versão Angular (ng update) e Spring;
+	- Atualização do `@angular/cli` e `@angular/core` das versões v13 para a v14.
