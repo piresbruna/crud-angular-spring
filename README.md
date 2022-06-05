@@ -44,10 +44,14 @@ Prática de Angular juntamente com Spring.
 **[Commit 12](https://github.com/piresbruna/crud-angular-spring/commit/4c39ce9e36aa0ca268b89fad6531f8d6c1a8991f)**
 - Vídeo 16: Banco de Dados H2 e Conectando o Angular na API Spring;
 
-**Commit 13**
+**[Commit 13](https://github.com/piresbruna/crud-angular-spring/commit/17c6d56ffc6431917ab47306bb196fd39da3a0e9)**
 - Vídeo 17: Update da Versão Angular (ng update) e Spring;
 	- Atualização do `@angular/cli` e `@angular/core` das versões v13 para a v14.
 
-**Commit 14**
+**[Commit 14](https://github.com/piresbruna/crud-angular-spring/commit/a0bcfdfa9cd78f75ef7cafcf0a493ac65f822235)**
 - Vídeo 17: Update da Versão Angular (ng update) e Spring;
 	- Atualização do `@angular/cdk` e `@angular/material` das versões v13 para a v14.
+	
+**Commit 15**
+- Vídeo 18: Componente de Formulário e Roteamento para criar cursos;
+- Vídeo 19: Formulário para Criar Cursos;
